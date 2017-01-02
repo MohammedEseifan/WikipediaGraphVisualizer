@@ -1,2 +1,2 @@
-# WikipediaGraphVisualizer
-Combination of Python and Java to map, search and visualise the connections between Wikipedia pages.
+# Purpose
+Initally started as a way to beat the '[Wikipedia Game](http://thewikigame.com/ "In-case you're unfamiliar")'dsfff sf
